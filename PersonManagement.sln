@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonManagement", "PersonManagement\PersonManagement.csproj", "{E203CD5B-256C-48E6-841E-DDF10E0537DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E203CD5B-256C-48E6-841E-DDF10E0537DE}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{E203CD5B-256C-48E6-841E-DDF10E0537DE}.Debug|.NET.Build.0 = Debug|Any CPU
+		{E203CD5B-256C-48E6-841E-DDF10E0537DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E203CD5B-256C-48E6-841E-DDF10E0537DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E203CD5B-256C-48E6-841E-DDF10E0537DE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{E203CD5B-256C-48E6-841E-DDF10E0537DE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{E203CD5B-256C-48E6-841E-DDF10E0537DE}.Release|.NET.ActiveCfg = Release|Any CPU
+		{E203CD5B-256C-48E6-841E-DDF10E0537DE}.Release|.NET.Build.0 = Release|Any CPU
+		{E203CD5B-256C-48E6-841E-DDF10E0537DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E203CD5B-256C-48E6-841E-DDF10E0537DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E203CD5B-256C-48E6-841E-DDF10E0537DE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{E203CD5B-256C-48E6-841E-DDF10E0537DE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E17CB780-0522-4E27-8A54-EA1892A76209}
+	EndGlobalSection
+EndGlobal
